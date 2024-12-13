@@ -1,0 +1,15 @@
+{
+  "applinks": {
+       "apps": [],
+        "details": [
+           {
+               "appID":"VF4YMU966G.ops.namabank.com.vn",
+               "paths":[ "", "/" ]
+           },
+	   {
+               "appID":"VF4YMU966G.ops-uat.namabank.com.vn",
+               "paths":[ "", "/" ]
+           }
+         ]
+    }
+}
